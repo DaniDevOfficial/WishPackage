@@ -9,7 +9,7 @@ You can install Wish Package via npm. Make sure you have React installed in your
 [![npm](https://img.shields.io/npm/v/wish-package)](https://www.npmjs.com/package/wish-package)
 
 ```bash
-npm install wish-package
+npm install wish-packagev2
 ```
 Or you can also install it from the local version with the path
 
@@ -21,7 +21,7 @@ npm install file:path/to/WishPackage
 
 ```javascript
 import React from 'react';
-import { WishPackage } from 'wish-package';
+import { WishPackage } from 'wish-packagev2';
 
 function App() {
   return (

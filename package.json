@@ -1,5 +1,5 @@
 {
-  "name": "wish-package",
+  "name": "wish-packagev2",
   "version": "1.0.0",
   "main": "src/WishPackage.js",
   "dependencies": {
