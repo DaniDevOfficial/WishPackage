@@ -6,7 +6,7 @@ Wish Package is a simple school exercise on how react packages work. It is just 
 
 You can install Wish Package via npm. Make sure you have React installed in your project.
 
-[![npm](https://img.shields.io/npm/v/wish-package)](https://www.npmjs.com/package/wish-package)
+[![npm](https://www.npmjs.com/package/wish-packagev2)](https://www.npmjs.com/package/wish-packagev2)
 
 ```bash
 npm install wish-packagev2
