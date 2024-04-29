@@ -1,0 +1,12 @@
+{
+  "name": "wish-package",
+  "version": "1.0.0",
+  "main": "src/WishPackage.js",
+  "dependencies": {
+    "react": "^18.1.1"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.24.1",
+    "babel-loader": "^9.1.3"
+  }
+}
